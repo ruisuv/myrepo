@@ -1,2 +1,2 @@
 # myrepo
-New Repository for Software Development Process course at Udacity
+New Repository for Software Development Process course at udacity.com
